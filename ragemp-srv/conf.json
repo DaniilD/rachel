@@ -4,5 +4,6 @@
 	"gamemode" : "freeroam", 
 	"stream-distance" : 500.0,
 	"announce" : false,
-	"port": 22005
+	"port": 22005,
+	"bin": "5.166.62.252"
 }

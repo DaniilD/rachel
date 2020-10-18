@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "reachel",
+    "password": "reachel",
+    "database": "reachel",
+    "port": 5432
+  }
+}
